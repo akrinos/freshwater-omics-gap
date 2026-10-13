@@ -1,0 +1,140 @@
+keyword,broad_category,specific_category
+ocean,aquatic_system,marine
+gulf,aquatic_system,marine
+fjord,aquatic_system,marine
+coast,aquatic_system,marine
+bay,aquatic_system,marine
+sea ,aquatic_system,marine
+ sea,aquatic_system,marine
+marine,aquatic_system,marine
+pacific,aquatic_system,marine
+estuar,aquatic_system,marine
+sea urchin,aquatic_system,sea_urchin
+salt pan,aquatic_system,marine
+wetland,aquatic_system,brackish
+brackish,aquatic_system,brackish
+lagoon,aquatic_system,brackish
+lake,aquatic_system,freshwater
+pond ,aquatic_system,freshwater
+ pond,aquatic_system,freshwater
+river,aquatic_system,freshwater
+ stream,aquatic_system,freshwater
+freshwater,aquatic_system,freshwater
+sulfur spring,aquatic_system,freshwater
+hypersaline,aquatic_system,extreme
+hypersaline lagoon,aquatic_system,extreme
+solar saltern,aquatic_system,extreme
+hot water stream,aquatic_system,extreme
+cultures,cultivation_method,yes
+culturing,cultivation_method,yes
+cultured,cultivation_method,yes
+database,database_method,yes
+reference,database_method,yes
+culture collection,database_method,yes
+isolate,cultivation_method,yes
+cultiva,cultivation_method,yes
+sequenc,sequencing_method,yes
+16s,sequencing_method,yes
+18s,sequencing_method,yes
+long-read,sequencing_method,yes
+illumina,sequencing_method,yes
+amplicon,sequencing_method,yes
+long read,sequencing_method,yes
+transcriptom,sequencing_method,yes
+rna,sequencing_method,yes
+dna,sequencing_method,yes
+genom,sequencing_method,yes
+proteom,sequencing_method,yes
+barcod,sequencing_method,yes
+metabarc,sequencing_method,yes
+qpcr,sequencing_method,yes
+454-pyrosequencing,sequencing_method,yes
+454 pyrosequencing,sequencing_method,yes
+quantitative polymerase chain reaction,sequencing_method,yes
+clone library analysis,sequencing_method,yes
+clone libraries,sequencing_method,yes
+ht-qpcr,sequencing_method,yes
+q-pcr,sequencing_method,yes
+otu ,sequencing_method,yes
+pcr,sequencing_method,yes
+ht-qpcr,sequencing_type,[meta]barcoding
+q-pcr,sequencing_type,[meta]barcoding
+ribosomal rna,sequencing_type,[meta]barcoding
+ribotype,sequencing_type,[meta]barcoding
+otu ,sequencing_type,[meta]barcoding
+pcr,sequencing_type,[meta]barcoding
+polymerase chain reaction,sequencing_type,[meta]barcoding
+clone libraries,sequencing_type,[meta]barcoding
+454-pyrosequencing,sequencing_type,[meta]barcoding
+454 pyrosequencing,sequencing_type,[meta]barcoding
+pyrosequencing,sequencing_method,[meta]barcoding
+18s,sequencing_type,[meta]barcoding
+16s,sequencing_type,[meta]barcoding
+internal transcribed spacer,sequencing_type,[meta]barcoding
+its sequenc,sequencing_type,[meta]barcoding
+(its),sequencing_type,[meta]barcoding
+ribosomal dna,sequencing_type,[meta]barcoding
+metabarc,sequencing_type,[meta]barcoding
+barcod,sequencing_type,[meta]barcoding
+amplicon,sequencing_type,[meta]barcoding
+rrna,sequencing_type,[meta]barcoding
+rdna,sequencing_type,[meta]barcoding
+quantitative polymerase chain reaction,sequencing_type,[meta]barcoding
+clone library analysis,sequencing_type,[meta]barcoding
+qpcr,sequencing_type,[meta]barcoding
+quantitative pcr,sequencing_type,[meta]barcoding
+primer,sequencing_type,[meta]barcoding
+denaturing gradient gel electrophoresis primers,sequencing_type,[meta]barcoding
+temperature gradient gel electrophoresis,sequencing_type,[meta]barcoding
+dgge,sequencing_type,[meta]barcoding
+tgge,sequencing_type,[meta]barcoding
+ ssu ,sequencing_type,[meta]barcoding
+ssu ,sequencing_type,[meta]barcoding
+transcriptom,sequencing_type,transcriptomics
+mrna,sequencing_type,transcriptomics
+genom,sequencing_type,other DNA/genomics
+dna,sequencing_type,other DNA/genomics
+metagenomi,sequencing_type,metagenomics
+meta-omic,sequencing_type,other meta-omics
+metatranscriptom,sequencing_type,metatranscriptomics
+metaproteom,sequencing_type,metaproteomics
+ht-qpcr,sequencing_type,other meta-omics
+proteom,sequencing_type,proteomics
+KEGG,sequencing_type,other DNA/genomics
+long-read,sequencing_type,long-read
+long read,sequencing_type,long-read
+hifi,sequencing_type,long-read
+hi-c,sequencing_type,long-read
+pacbio,sequencing_type,long-read
+nanopore,sequencing_type,long-read
+diatom,organism_group,euk_phytoplankton
+dinoflagellate,organism_group,euk_phytoplankton
+haptophyte,organism_group,euk_phytoplankton
+alga,organism_group,euk_phytoplankton
+pelagophyt,organism_group,euk_phytoplankton
+chlorophyt,organism_group,euk_phytoplankton
+cyanobac,organism_group,cyanobacteria
+synechococcus,organism_group,cyanobacteria
+anabaena,organism_group,cyanobacteria
+microcystis,organism_group,cyanobacteria
+fung,organism_group,fungus
+chytrid,organism_group,fungus
+oomyce,organism_group,other_protist
+cryptosporidi,organism_group,fungus
+protist,organism_group,other_protist
+apicomplex,organism_group,other_protist
+ciliate,organism_group,other_protist
+trypanosome,organism_group,other_protist
+streptomyces,organism_group,bacteria
+caldicellulosiruptor,organism_group,bacteria
+nocardiopsis,organism_group,bacteria
+burkholderia,organism_group,bacteria
+acidimicrobiia,organism_group,bacteria
+vibrio,organism_group,bacteria
+archaea,organism_group,bacteria
+bacteri,organism_group,bacteria
+marinobacter,organism_group,bacteria
+prokary,organism_group,bacteria
+escherichia,organism_group,e_coli
+e. coli,organism_group,e_coli
+e coli,organism_group,e_coli
